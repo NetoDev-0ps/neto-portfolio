@@ -27,7 +27,7 @@ useEffect(() => {
       <header className="flex flex-col items-center mb-8 text-center">
         <div className="w-32 h-32 mb-6 overflow-hidden border-4 border-white rounded-full shadow-xl dark:border-slate-800">
           <img 
-            src="https://github.com/NetoMonteiro.png" 
+            src="/avatar.jpeg" 
             alt="Neto Monteiro" 
             className="object-cover w-full h-full"
           />
