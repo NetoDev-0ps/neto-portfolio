@@ -58,7 +58,7 @@ useEffect(() => {
         <LinkCard 
   icon={<FileText size={20} />} 
   title="Currículo" 
-  url="/public/vitae.pdf" 
+  url="/vitae.pdf" 
   target="_blank"
 />
         <LinkCard
