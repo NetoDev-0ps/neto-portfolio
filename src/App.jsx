@@ -58,8 +58,8 @@ useEffect(() => {
         <LinkCard 
   icon={<FileText size={20} />} 
   title="Currículo" 
-  url="/public/vitae .pdf" 
-  target="_blank" 
+  url="/public/vitae.pdf" 
+  target="_blank"
 />
         <LinkCard
           icon={<MessageCircle size={20} />} 
